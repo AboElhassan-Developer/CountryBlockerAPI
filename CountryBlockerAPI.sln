@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountryBlockerAPI", "CountryBlockerAPI\CountryBlockerAPI.csproj", "{7097ADAB-4737-4B88-A659-CB1E06828F8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountryBlockerAPI.Tests", "CountryBlockerAPI.Tests\CountryBlockerAPI.Tests.csproj", "{A31B0889-D11E-4AA0-AF16-AA550C6F4BA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7097ADAB-4737-4B88-A659-CB1E06828F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7097ADAB-4737-4B88-A659-CB1E06828F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7097ADAB-4737-4B88-A659-CB1E06828F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7097ADAB-4737-4B88-A659-CB1E06828F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A31B0889-D11E-4AA0-AF16-AA550C6F4BA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A31B0889-D11E-4AA0-AF16-AA550C6F4BA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A31B0889-D11E-4AA0-AF16-AA550C6F4BA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A31B0889-D11E-4AA0-AF16-AA550C6F4BA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55B85906-197D-477C-BA3A-166D3FC09398}
+	EndGlobalSection
+EndGlobal

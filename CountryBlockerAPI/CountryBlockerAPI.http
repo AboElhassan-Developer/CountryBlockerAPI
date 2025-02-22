@@ -1,0 +1,6 @@
+@CountryBlockerAPI_HostAddress = http://localhost:5066
+
+GET {{CountryBlockerAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
