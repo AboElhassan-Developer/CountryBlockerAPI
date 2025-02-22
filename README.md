@@ -35,13 +35,12 @@ Before running the project, make sure you have:
 git clone https://github.com/AboElhassan-Developer/CountryBlockerAPI.git
 cd CountryBlockerAPI
 2️⃣ Run the API
+dotnet run
 3️⃣ Open Swagger for API Documentation
 https://localhost:7115/swagger/index.html
-
-
 📩 Contact
-If you have any questions or inquiries, feel free to reach out
-📧 Email: [mamdohbassem2@gmail.com]
-🔗 LinkedIn: https://www.linkedin.com/in/abo-elhassanmamdoh/
+If you have any questions or inquiries, feel free to reach out:
+📧 Email: mamdohbassem2@gmail.com
+🔗 LinkedIn:https://www.linkedin.com/in/abo-elhassanmamdoh/
 
 ```
